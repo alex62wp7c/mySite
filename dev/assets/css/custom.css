@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  padding-top: 80px;
+}
+
+.debug {
+  border: white 1px dotted;
+  padding-left: 40px;
+  padding-right: 40px;
+}
